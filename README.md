@@ -11,7 +11,7 @@ This repository contains a collection of code snippets designed for use with Obs
 📂 Works out of the box with Obsidian’s snippet system
 🌍 Free for anyone to use and adapt
 
-##### 🚀 Getting Started
+## 🚀 Getting Started
 
 Clone or download this repository.
 Copy the snippets into your Obsidian vault’s .obsidian/snippets folder.
