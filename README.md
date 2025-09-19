@@ -17,15 +17,15 @@ Clone or download this repository.
 Copy the snippets into your Obsidian vault’s .obsidian/snippets folder.
 In Obsidian, go to Settings → Appearance → CSS Snippets, then enable the ones you want.
 
-##### 📖 Usage
+## 📖 Usage
 
 These snippets can be combined or customized to fit your personal workflow.
 Great for experimenting with note-taking aesthetics and productivity setups.
 
-##### 🤝 Contribution
+## 🤝 Contribution
 
 Feel free to open issues or submit pull requests if you’d like to add more snippets or improve existing ones.
 
-##### 📜 License
+## 📜 License
 
 This project is licensed under the MIT License – free to use, modify, and share.
