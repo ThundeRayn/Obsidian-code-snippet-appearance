@@ -4,7 +4,7 @@ This repository contains a collection of code snippets designed for use with Obs
 . The snippets focus on enhancing and customizing the Markdown appearance within Obsidian, giving you more control over how your notes look and feel.
 
 ---
-##### ✨ Features
+## ✨ Features
 
 🎨 Customizable Markdown styling for better readability
 ⚡ Lightweight snippets that are easy to use and modify
