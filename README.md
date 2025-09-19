@@ -1,4 +1,4 @@
-### Obsidian Note App Snippets
+# Obsidian Note App Snippets
 
 This repository contains a collection of code snippets designed for use with Obsidian
 . The snippets focus on enhancing and customizing the Markdown appearance within Obsidian, giving you more control over how your notes look and feel.
